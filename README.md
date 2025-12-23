@@ -124,4 +124,4 @@ Metrics used:
 ### License
 This project is developed for academic purposes as part of a Machine Learning course.
 
-Dataset License: Check Kaggle page
+Dataset License: (https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
